@@ -1,0 +1,4 @@
+<div class="phx-hero">
+  <h2>Hello World, from <%= @messenger %></h2>
+  <a href="<%= Routes.page_path(@conn, :index) %>">I want you to click me Jerry. CLICK ME!!!!!</a>
+</div>
